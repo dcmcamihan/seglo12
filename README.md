@@ -115,9 +115,5 @@ This project was developed by BSCS students of **Malayan Colleges Mindanao**:
 - **Dianna Claire Marie Amihan**  
 - **Cyril Angelo Soto**
 
----
-
-## 📄 License
-
 © 2025 **SeGlo Team**. All rights reserved.
 
