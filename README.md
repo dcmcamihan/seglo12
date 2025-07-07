@@ -1,4 +1,4 @@
-# 🤟 SeGlo: A Multimodal Glove Integrating Flex Sensors and Computer Vision for Sign-to-Speech Translation
+# 🤟 SeGlo-12: A Multimodal Glove Integrating Flex Sensors and Computer Vision for Sign-to-Speech Translation
 
 **SeGlo** is a hybrid, mobile-based assistive communication tool that translates American Sign Language (ASL) gestures into both text and speech in real-time. It supports two independent input modes—a wearable smart glove and a camera-based recognition system—integrated into a single offline-capable Android application.
 
