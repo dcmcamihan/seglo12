@@ -109,8 +109,6 @@ python convert_to_tflite.py
 
 ## 👥 Contributors
 
-This project was developed by BSCS students of **Malayan Colleges Mindanao**:
-
 - **Herald Vann Alalim**  
 - **Dianna Claire Marie Amihan**  
 - **Cyril Angelo Soto**
