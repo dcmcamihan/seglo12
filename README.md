@@ -65,13 +65,11 @@ Millions of people globally rely on sign language for communication, but most no
 ## 🧪 Machine Learning (Python)
 
 - Developed using **TensorFlow**, **MediaPipe**, **NumPy**, and **scikit-learn**
-- Trained on 40 gesture classes including 24 static ASL letters and 16 predefined phrases
 - Uses MediaPipe to extract 3D hand landmarks (21 keypoints per hand)
 - Features:
   - Data preprocessing and normalization
   - Dense neural network classifier
   - Export to `.tflite` format for mobile integration
-- Achieved **97.04% accuracy** and a **macro F1-score of 0.98**
 
 ---
 
